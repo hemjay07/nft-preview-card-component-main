@@ -11,13 +11,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot.jpg)
+![screenshot of the nft card on desktop](/screenshot.jpg)
 
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://hemjay07.github.io/nft-preview-card-component-main/)
+- Live Site URL: (https://hemjay07.github.io/nft-preview-card-component-main/)
 
 
 ### Built with
