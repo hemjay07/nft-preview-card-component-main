@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot 2022-06-21 at 02.45.22.png)
+![](/screenshot.jpg)
 
 Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
